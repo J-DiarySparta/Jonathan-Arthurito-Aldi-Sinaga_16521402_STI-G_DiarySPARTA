@@ -1,0 +1,1 @@
+# Jonathan-Arthurito-Aldi-Sinaga_16521402_STI-G_DiarySPARTA
