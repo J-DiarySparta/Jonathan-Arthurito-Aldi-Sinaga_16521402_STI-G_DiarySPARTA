@@ -1,9 +1,9 @@
 Here's my diary about SPARTA 21
 
 Day 0 :
-Day 0 of SPARTA HMIF was held on Monday, 4th July 2022. I actually don't know if it was gonaa be the day 0 SPARTA HMIF. Before that, we gotta solve a puzzle that was given to us. 
-After solving that puzzle, we got a zoom meeting ID and password. That ID and password was going to be used on the Day 0 SPARTA HMIF meeting. 
-Unfortunately, there was a technical failure in Palembang's electric energy supplier. It caused a blackout in Palembang on that night. Because of that, I didn't attend that meeting.
+Day 0 of SPARTA HMIF was held on Monday, 4th July 2022. I actually don't know if it was gonaa be the day 0 SPARTA HMIF. Before that, we gotta solve a puzzle that was given 
+to us. After solving that puzzle, we got a zoom meeting ID and password. That ID and password was going to be used on the Day 0 SPARTA HMIF meeting. Unfortunately, there 
+was a technical failure in Palembang's electric energy supplier. It caused a blackout in Palembang on that night. Because of that, I didn't attend that meeting.
 
 Day 1 :
 The first day of SPARTA HMIF was held on Thursday, 7th July 2022. Before that, I also remember that we gotta post a twibbon on our instagram and sign a contract.
@@ -18,3 +18,24 @@ In that day, there was a seminar about "Urgensi Kemahasiswaan". AFter that, ther
 Day 2 :
 This day was definitely more exciting than day 1. It's because we can know many things about HMIF ITB. 
 We can know the history, meaning of the logo, AD-ART, Mars, Hymne, and other activities in HMIF.
+
+Day 3 :
+In this day, we can know about Kesenatoran, Dewan Eksekutif, and Dewan Perwakilan dan Pengawasan. That day was actually interesting because we can know all departements of 
+HMIF ITB.
+
+Day 4 ( Fun Day ) :
+In this day, there are 25 "games" that you can choose from. I choose CP. I thought it was gonna be offline ( it was held in a cafe or something like that ), but I was wrong.
+At 12:00, we were give 5 challanges. I thought all of them is going to be CP challanges. But i was wrong. Only 1 of the challanges is the one about CP. 
+
+1. Solve 4 Codeforces Problem
+2. Make a "gombal" code
+3. Make an essay about the best programming language
+4. Make a document about the funniest programming meme
+5. Make a website that contains documentary of today's challanges.
+
+I choose the challange where I was asked to make a simple code to "gombal". I don't know what I should make. And then, I remembered that yesterday before the funday, 
+I made a Face Recognition code using python ( eventhough I didn't understand about the code, but it somehow works ). So, I decided to use Tkinter and that 
+Face Recognition code to make a "gombal" code. The code is actually simple. When u run it, there will be a pop-up. That pop-up will contain a button that in it 
+written "Wanna see the cutest person?". After you click that button, there will be a camera tab on your laptop with a box that track your face. On top of that box, 
+there will be written your percentage of cute.  I know it is cringe, but all of my teammates don't have other idea. If you want to see the full code, you can visit 
+my github repository :D. 
