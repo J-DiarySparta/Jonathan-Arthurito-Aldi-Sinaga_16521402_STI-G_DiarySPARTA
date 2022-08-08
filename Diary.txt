@@ -34,9 +34,22 @@ Here's the list of the challenges
 4. Make a document about the funniest programming meme
 5. Make a website that contains documentary of today's challanges.
 
-I chose the challenge where I was asked to make a simple code to "gombal". I don't know what I should make. And then, I remembered that yesterday before the funday, 
-I made a Face Recognition code using python ( even though I didn't fully understand about the code, but it somehow works ). So, I decided to use Tkinter and that 
-Face Recognition code to make a "gombal" code. The code is actually simple. When you run it, there will be a pop-up. That pop-up will contain a button that in it 
-written "Wanna see the cutest person?". After you click that button, there will be a camera tab on your laptop with a box that track your face. On top of that box, 
-there will be written your percentage of cute.  I know it is cringe, but all of my teammates don't have other idea. If you want to see the full code, you can visit 
-my github repository :D. 
+I chose the challenge where I was asked to make a simple code to "gombal". I don't know what I should make. I wanted to solve one of 4 codeforces problem, but all of the
+problems was already taken by the others. And then, I remembered that yesterday before the funday, I made a Face Recognition code using python
+( even though I didn't fully understand about the code, but it somehow works ). So, I decided to use Tkinter and that Face Recognition code to make a "gombal" code. The code 
+is actually simple. When you run it, there will be a pop-up. That pop-up will contain a button that in it written "Wanna see the cutest person?". After you click that button, 
+there will be a camera tab on your laptop with a box that track your face. On top of that box, there will be written your percentage of cute.  I know it is cringe, but all of 
+my teammates don't have other idea. If you want to see the full code, you can visit my github repository :D. For the 4th problem, we made a google form where you can 
+submit meme that you consider "funny". And for the 3th problem, we also make a google form about what's your favorite programming language. After that, we discuss about it
+in a google docs and proceed to make the essay. 
+
+Day 5 :
+In this day, there is a seminar and an offine evaluation forum. The seminar started in morning at 9 AM. Because I don't know when will the second / evaluation forum started,
+so I decided to come to ITB and watch the seminar from ITB. After that seminar, we were told that we have a "rest" time for about 90 minutes. After that, there will be
+mentoring. The mentoring only just want us to rediscuss about the previous seminar materials. After that, there is a evaluation forum.
+
+Day 6 :
+This day was held in full offline. In the first session ( mentoring session ), we talked about how to make a life vision. After that, there's the evaluation session.
+I also remembered that on that day I made a mistake. I should answer with "Themis", but I answered "Athens" instead. 
+
+
